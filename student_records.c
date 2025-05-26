@@ -1,8 +1,6 @@
 //*****************************************************************
 //  student_records.c
 //
-//  Mohamad Arnaout T00765395
-//  COMP2131 Assigntment 2
 //   
 //  A simple, menu‑driven program to manage student records in a
 //  binary file. Allows the user to manage records through first
